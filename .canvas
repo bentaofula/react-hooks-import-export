@@ -1,6 +1,10 @@
 ---
-:lessons:
-- :id: 250546
-  :course_id: 6667
-  :canvas_url: https://learning.flatironschool.com/courses/6667/pages/organizing-code-with-import-slash-export
-  :type: page
+lessons:
+- :id: 68024
+  :course_id: 3264
+  :canvas_url: https://learning.flatironschool.com/courses/3264/assignments/68024
+  :type: assignment
+- :id: 166188
+  :course_id: 5492
+  :canvas_url: https://learning.flatironschool.com/courses/5492/assignments/166188
+  :type: assignment
